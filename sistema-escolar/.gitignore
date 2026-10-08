@@ -18,7 +18,5 @@ bin/
 .DS_Store
 Thumbs.db
 
-# Dados gerados pelos programas
+# Dados gerados pelo programa
 *.dat
-*.rle
-*_restaurado.txt

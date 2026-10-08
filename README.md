@@ -8,6 +8,8 @@ Coleção de projetos de terminal em **linguagem C** para praticar os fundamento
 | [📒 Agenda de Contatos](agenda-contatos/) | CRUD de contatos salvos em arquivo binário | `struct`, `fopen`, `fread`, `fwrite`, `fclose` |
 | [❌⭕ Jogo da Velha](jogo-da-velha/) | Jogo para dois jogadores no terminal, com placar | Matrizes, vetores, laços, lógica condicional |
 | [🔢 Conversor de Bases](conversor-bases/) | Converte entre decimal, binário, octal e hexadecimal | Operadores bit a bit (`&`, `>>`), `uint64_t` |
+| [🎓 Sistema Escolar](sistema-escolar/) | CRUD completo de alunos e notas, com médias e situação | `struct`, `malloc`/`realloc`, `fread`/`fwrite`, modularização |
+| [🗜️ Compactador RLE](compactador-rle/) | Compacta e descompacta arquivos com Run-Length Encoding | `fgetc`/`fputc`, ponteiros, strings, arquivos binários |
 
 ## Organização
 

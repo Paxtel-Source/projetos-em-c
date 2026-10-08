@@ -1,0 +1,2 @@
+Arquivo com digitos para testar o escape: 1112223334444 \\\ 000000
+Placar: 7 x 0 em 2026. Codigo: AAAA-BBBB-1111-0000

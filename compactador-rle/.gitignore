@@ -18,7 +18,6 @@ bin/
 .DS_Store
 Thumbs.db
 
-# Dados gerados pelos programas
-*.dat
+# Arquivos gerados pelos testes
 *.rle
 *_restaurado.txt
